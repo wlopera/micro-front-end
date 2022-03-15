@@ -1,7 +1,7 @@
 {
   "name": "@mc/react-multiples",
   "scripts": {
-    "start": "webpack serve",
+    "start": "webpack serve --port 8750",
     "start:standalone": "webpack serve --env standalone",
     "build": "concurrently npm:build:*",
     "build:webpack": "webpack --mode=production",
