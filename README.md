@@ -1,6 +1,7 @@
 # micro-front-end
 React Microfrontend (MFE) - single-spa
  - Proyectos independientes unidos en un MFE-React 
+ - https://single-spa.js.org/docs/getting-started-overview
 
 ## Fuente
 ![Captura-a](https://user-images.githubusercontent.com/7141537/158449929-b26d3c3f-0e5c-4d24-9809-c5989a7029d5.PNG)
